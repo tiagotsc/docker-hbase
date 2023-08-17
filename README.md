@@ -110,11 +110,11 @@ Esse arquivo conterá todos os recursos e configurações necessárias que nossa
 
 2 - Adicione o seguinte conteúdo no arquivo **Dockerfile** e salve.
 
-https://github.com/tiagotsc/docker-hive/blob/ae1966f5842a513ec0ac8c187ac84fffa4eff53f/hive_3.1.3/Dockerfile#L1-L233
+https://github.com/tiagotsc/docker-hbase/blob/f7c05422f9737f7aa5b856b87c2877b13fb7fbec/Dockerfile#L1-L131
 
 3 - Na pasta onde tem o **Dockerfile**, crie o arquivo **script.sh** e adicione o conteúdo:
 
-https://github.com/tiagotsc/docker-hive/blob/ae1966f5842a513ec0ac8c187ac84fffa4eff53f/hive_3.1.3/script.sh#L1-L11
+https://github.com/tiagotsc/docker-hbase/blob/f7c05422f9737f7aa5b856b87c2877b13fb7fbec/script.sh#L1-L10
 
 Esse arquivo fará o ajuste de privilégios na nossa imagem.
 
