@@ -3,7 +3,7 @@
 
 **Apache Hbase** é um banco NoSQL da categoria de famílias de colunas que roda sobre o **HDFS** no seu Data Lake Hadoop.
 
-Com Apache HBase você adiciona uma camada extra de armazenamento e consequentemente de análise sobre seu Data Lake o que vai facilitar  e muitos suas análises e interações sobre os dados estruturado, semiestruturados e principalmente sobre os dados não estruturados que estão no HDFS.
+Com Apache HBase você adiciona uma camada extra de armazenamento e consequentemente de análise sobre seu Data Lake o que vai facilitar  e muitos suas análises e interações sobre os dados estruturado, semiestruturados e principalmente sobre os dados não estruturados que estão no HDFS na escala de petabyte, e tudo isso em tempo real.
 
 Por ser um banco **NoSQL**, sua linguagem default de interação não é o **SQL**, o que para muitos possa exigir uma curva de aprendizado um pouco maior sobre como operá-lo, mas é possível integrá-lo ao **Apache Phoenix**, o que adiciona uma camada abstrata de SQL, e assim se torna possível rodar **SQL** sobre o **HBase**.
 
